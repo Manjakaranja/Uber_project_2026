@@ -1,0 +1,6 @@
+*.csv
+*.zip
+
+env*
+
+.DS_Store
