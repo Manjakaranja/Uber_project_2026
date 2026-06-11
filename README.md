@@ -114,7 +114,7 @@ Both K-Means and DBSCAN identified similar high-demand areas across the city. Ho
 Clone the repository:
 
 ```bash
-git clone [<repository_url>](https://github.com/Manjakaranja/Uber_project_2026)
+git clone https://github.com/Manjakaranja/Uber_project_2026
 cd Uber_project_2026
 ```
 
